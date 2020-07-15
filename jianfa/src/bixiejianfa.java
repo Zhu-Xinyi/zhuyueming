@@ -1,1 +1,3 @@
-ÓûÁ·´Ë¹¦
+public class User {
+	private String userName;
+}
